@@ -37,7 +37,7 @@ function App() {
       <button
       onClick={removeValue}>Drecrease Value: {counter}</button>
       <p>message: {message}</p>
-      {/* <p>footer :{counter}</p> */}
+      <p>footer :{counter}</p>
     </>
   )
 }
